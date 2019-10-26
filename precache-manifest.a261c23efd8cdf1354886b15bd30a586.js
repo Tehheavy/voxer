@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "daadba2cb69557c9a170fddb906455f2",
+    "revision": "e7ccf6f232a0ec477139b309f2c79cb8",
     "url": "/voxer/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voxer/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "013fa0e662ca8d526bff",
+    "revision": "2a016cab644f9fe88add",
     "url": "/voxer/static/css/main.01983370.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voxer/static/js/2.9ac3e8e5.chunk.js"
   },
   {
-    "revision": "013fa0e662ca8d526bff",
-    "url": "/voxer/static/js/main.cf5caeaf.chunk.js"
+    "revision": "2a016cab644f9fe88add",
+    "url": "/voxer/static/js/main.ef230fcc.chunk.js"
   },
   {
     "revision": "726392971d782996e32c",
