@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/voxer/static/css/main.01983370.chunk.css",
-    "main.js": "/voxer/static/js/main.fe5389f6.chunk.js",
-    "main.js.map": "/voxer/static/js/main.fe5389f6.chunk.js.map",
+    "main.js": "/voxer/static/js/main.9bcf626e.chunk.js",
+    "main.js.map": "/voxer/static/js/main.9bcf626e.chunk.js.map",
     "runtime-main.js": "/voxer/static/js/runtime-main.620b3ac4.js",
     "runtime-main.js.map": "/voxer/static/js/runtime-main.620b3ac4.js.map",
     "static/css/2.0624914a.chunk.css": "/voxer/static/css/2.0624914a.chunk.css",
     "static/js/2.9ac3e8e5.chunk.js": "/voxer/static/js/2.9ac3e8e5.chunk.js",
     "static/js/2.9ac3e8e5.chunk.js.map": "/voxer/static/js/2.9ac3e8e5.chunk.js.map",
     "index.html": "/voxer/index.html",
-    "precache-manifest.90dc539e5c24c224f28d8a9bd19cb9f5.js": "/voxer/precache-manifest.90dc539e5c24c224f28d8a9bd19cb9f5.js",
+    "precache-manifest.afe3cb0d4acba5e4298b1f2c329b8558.js": "/voxer/precache-manifest.afe3cb0d4acba5e4298b1f2c329b8558.js",
     "service-worker.js": "/voxer/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/voxer/static/css/2.0624914a.chunk.css.map",
     "static/css/main.01983370.chunk.css.map": "/voxer/static/css/main.01983370.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.0624914a.chunk.css",
     "static/js/2.9ac3e8e5.chunk.js",
     "static/css/main.01983370.chunk.css",
-    "static/js/main.fe5389f6.chunk.js"
+    "static/js/main.9bcf626e.chunk.js"
   ]
 }
